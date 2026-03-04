@@ -1,0 +1,1 @@
+neangan@sarangkamarang:$ sudo dpkg -i Programs/google-chrome-stable_current_amd64.deb
